@@ -1,0 +1,11 @@
+GET https://cataas.com/cat?json=true
+Accept: application/json
+
+###
+GET https://cataas.com/cat_x?json=true
+Accept: application/json
+
+###
+
+GET https://cataas.com/cat/says/bonjour?json=true
+Accept: application/json
